@@ -1,0 +1,20 @@
+# Локальные комплекты для ручной загрузки в Releases
+/release-files/
+*.apk
+*.aab
+# Временные файлы и локальные данные
+/tmp/
+/temp/
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
